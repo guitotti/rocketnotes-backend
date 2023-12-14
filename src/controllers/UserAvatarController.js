@@ -9,7 +9,7 @@ class UserAvatarController {
 
     const diskStorage = new DiskStorage();
 
-    const user = await("knex")
+    const user = await knex("users")
     .where({ id: user_id }).first();
 
     if(!user) {
@@ -28,3 +28,5 @@ class UserAvatarController {
     return response.json(user);
   }
 }
+
+module.exports = UserAvatarController;
