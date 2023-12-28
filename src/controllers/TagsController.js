@@ -1,4 +1,4 @@
-const knex = require("../database/knex")
+const knex = require("../database/knex");
 
 class TagsController {
   async index(request, response) {
@@ -6,9 +6,10 @@ class TagsController {
 
     const tags = await knex("tags")
     .where({ user_id })
+    .groupBy("name");
 
-    return response.json(tags)
+    return response.json(tags);
   }
 }
 
-module.exports = TagsController
+module.exports = TagsController;
