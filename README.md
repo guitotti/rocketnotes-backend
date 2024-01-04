@@ -6,7 +6,7 @@ Projeto em desenvolvimento em conjunto com as aulas dos Stages 08, 09 e 10 da tr
 
 ### 🎯 Desafio
 
-Criar uma aplicação, utilizando as tecnologias abaixo, na qual o usuário realiza o cadastro de notas e preenche algumas informações, como nome e descrição, e adiciona tags e links relacionadas a ela. 
+Criar uma aplicação, utilizando as tecnologias abaixo, na qual o usuário realiza o cadastro de notas e preenche algumas informações, como nome e descrição, e adiciona tags e links relacionadas à ela. 
 
 ## 🛸 Tecnologias
 
