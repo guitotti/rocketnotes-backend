@@ -2,6 +2,8 @@
 
 Projeto em desenvolvimento em conjunto com as aulas dos Stages 08, 09 e 10 da trilha Explorer da @Rocketseat
 
+![image](https://github.com/guitotti/rocketnotes-frontend/assets/62620636/9a9d2d38-7453-4a3b-873a-34cb29229ed6)
+
 ### 🎯 Desafio
 
 Criar uma aplicação, utilizando as tecnologias abaixo, na qual o usuário realiza o cadastro de notas e preenche algumas informações, como nome e descrição, e adiciona tags e links relacionadas a ela. 
