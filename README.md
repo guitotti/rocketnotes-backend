@@ -1,6 +1,6 @@
-## 🧩 **Projeto em desenvolvimento para estudo pessoal.**
+## 🧩 **Projeto desenvolvido para estudo pessoal.**
 
-Projeto em desenvolvimento em conjunto com as aulas dos Stages 08, 09 e 10 da trilha Explorer da @Rocketseat
+Projeto desenvolvido em conjunto com as aulas dos Stages 08, 09 e 10 da trilha Explorer da Rocketseat
 
 ![image](https://github.com/guitotti/rocketnotes-frontend/assets/62620636/9a9d2d38-7453-4a3b-873a-34cb29229ed6)
 
